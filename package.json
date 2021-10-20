@@ -1,6 +1,6 @@
 {
   "name": "react-quiz",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "autoprefixer": "7.1.6",
@@ -96,5 +96,9 @@
   },
   "eslintConfig": {
     "extends": "react-app"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/Bendyk-Vitalii/Quiz-react-redux",
+  "author": "Bendyk-Vitalii <75281160+Bendyk-Vitalii@users.noreply.github.com>",
+  "license": "MIT"
 }
